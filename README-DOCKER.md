@@ -24,3 +24,6 @@ services:
     - Si te pide como empezar el proyecto , elige Basic 
     - Si te pide instalar dependencias, elige Yes
 - Vuelve a entrar tu Visual Code y dentro del contenedor ejecutar npm run dev -- --host
+
+## Video Ayudita
+- https://youtu.be/9Ry329l56nU
